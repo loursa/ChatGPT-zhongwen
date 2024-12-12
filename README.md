@@ -53,7 +53,7 @@ ChatGPT是由OpenAI开发的人工智能聊天模型，因其强大的对话生�
 | **蛇语 AI**  | [snakegpt.work](https://snakegpt.work) | GPT-4     | 注册后5次        | 支持AI绘图，极速响应       |
 | **GPT 猫**   | [gptcat.net](https://gptcat.net)     | GPT-4,GPT-o1     | 10次对话       | 支持GPT-o1，支持实时语音对话           |
 | **熊猫 GPT** | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4     | 10次对话       | 快速响应，API支持          |
-| **狗狗 AI**  | [http://gptdog.online/](http://gptdog.online/)   | GPT-4     | 无       | 高度优化，支持多场景应用   |
+| **狗狗 AI**  | [gptdog.online](http://gptdog.online/)   | GPT-4     | 无       | 高度优化，支持多场景应用   |
 
 
 ### 🔥 热门推荐：蛇语 AI
